@@ -1,2 +1,2 @@
 # Pharmacy-Management-System
-A Python based project.<br> My Name is Muhammad Saqib 
+A Python based project.<br> My Name is Muhammad Saqib <br> The Pharmacy Management System is a software-based application developed to simplify and automate the daily operations of a pharmacy. Managing medicine records, inventory, and sales manually can be time-consuming and error-prone. This project aims to replace manual record keeping with a computerized system that is efficient, reliable, and easy to use.
